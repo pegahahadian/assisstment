@@ -5,8 +5,8 @@ Handwritten Fraction Detection
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+#- [Usage](#usage)
+#- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -26,10 +26,5 @@ Numpy
 CV2
 pytesseract
 matplotlib
-
-## usage
-
-1. OCR
-2. Digit recognition - Prediction
 
 
